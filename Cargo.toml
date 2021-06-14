@@ -88,5 +88,5 @@ serde_with = { version = "1.9.1", optional = true, features = ["chrono"] }
 warp = { version = "0.3.1", optional = true }
 
 [dev-dependencies]
-cmd_lib = "1.0.13"
+cmd_lib = "1.1.0"
 pretty_env_logger = "0.4.0"
